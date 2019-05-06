@@ -4,7 +4,15 @@ body {
   font-size: 15px;
   line-height: 1.8;
   color: #b3b3b3;
-  background: #fff;
+  background: #ddff10;
+}
+
+.format {
+  font-family: "Playfair Display";
+  text-align: justify;
+  font-size: 15px;
+  color: #000000;
+  
 }
 
 a {
