@@ -1,6 +1,6 @@
 # Blog
 
-Esse é um blog pessoal criado para disciplina de projeto supervisonado - IFPI - 2019
+Esse é um blog pessoal criado para disciplina de projeto supervisionado - IFPI - 2019
 
 ## Para enviar automaticamente para o netlify
 
